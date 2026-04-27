@@ -8,7 +8,7 @@ import '../depending_blocs/supervisor/catalog_supervisor_bloc/catalogs_superviso
 import '../depending_blocs/supervisor/gestors_bloc/gestors_bloc.dart';
 import '../screens/gestor_home.dart';
 import '../screens/supervisor_home.dart';
-import 'bloc/orchestrator_bloc.dart';
+import 'orchestrator_bloc/orchestrator_bloc.dart';
 import 'orchestrator_config.dart';
 
 /// ============================================================

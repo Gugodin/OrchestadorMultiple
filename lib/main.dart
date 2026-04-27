@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 // Orquestador
-import 'orchestador_multiple/bloc/orchestrator_bloc.dart';
+import 'orchestador_multiple/orchestrator_bloc/orchestrator_bloc.dart';
 
 // Feature BLoCs — Gestor
 import 'depending_blocs/gestor/asignations_bloc/asignations_bloc.dart';
